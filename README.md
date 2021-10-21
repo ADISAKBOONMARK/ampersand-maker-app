@@ -1,6 +1,12 @@
 # & Ampersand Maker
 
-Start App: http://localhost:8069/
+## Start App
+
+```sh
+run.exe
+```
+
+Open Browser: http://localhost:8069/
 
 ## คำอธิบายเพิ่มเติม
 
